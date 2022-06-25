@@ -2,9 +2,7 @@
 
 账号 : `tututu`，密码 : `123456`
 
-**前端地址：**
-
-**后端地址：**
+**源码地址：**https://github.com/TeWuTU321/vueblog
 
 ### 技术
 
