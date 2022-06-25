@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tuling-mpbg/tuling-mpbg.iml" filepath="$PROJECT_DIR$/tuling-mpbg/tuling-mpbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vueblog.iml" filepath="$PROJECT_DIR$/vueblog.iml" />
+    </modules>
+  </component>
+</project>
